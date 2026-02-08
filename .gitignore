@@ -1,0 +1,20 @@
+.DS_Stor# --- macOS 특유의 시스템 파일 ---
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# --- 파이썬 실행 시 생기는 캐시 파일 ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- 유니티/게임 데이터 관련 (혹시 다시 넣을 경우 대비) ---
+*.assets
+*.resS
+*.resource
+*.new
+
+# --- 작업용 임시 폴더 ---
+원본_en/
+번역_ko/
+결과_en/
