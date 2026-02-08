@@ -1,4 +1,4 @@
-# 🍎 Dead Reset Localization Patch for macOS
+# Dead Reset Localization Patch for macOS
 
 이 프로젝트는 FMV 게임 **'Dead Reset'**의 최신 버전(v1.0.5 이상) 및 Apple Silicon(M1/M2/M3/M4) 맥북 환경에서 발생하는 한글 패치 크래시 문제를 해결하고, 안전하게 한글 자막을 이식하기 위한 툴세트와 패치 파일을 제공합니다.
 
